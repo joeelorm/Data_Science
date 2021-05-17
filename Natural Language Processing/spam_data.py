@@ -15,3 +15,5 @@ features_dictionary = {'function': 8, 'please': 14, 'find': 6, 'five': 0, 'with'
 
 text = "Another five fish find another faraway fish."
 print(text_to_bow_vector(text, features_dictionary)[0])
+
+
